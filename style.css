@@ -1,0 +1,93 @@
+body{
+	margin: 0;	
+	padding: 0;
+	background-image: url("gg.gif");	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.parallax-container{
+	height: 100vh;
+}
+
+section{
+	width: 100%;
+	min-height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+section .content{
+	max-width: 1000px;
+	margin: 0 auto;
+}	
+
+.parallax{
+	width: 100%;
+}
+
+.una img{
+	width:95%;
+	height: 655px;
+}
+
+
+.hr1{
+	height: 6px;
+	background-color: green;
+	width: 1110px;
+}
+
+
+
+.pangalawa{
+	text-align:center;
+	font-size: 1.7em;
+	font-family: Courier New;
+	color: black;
+	width: 70%;
+}
+.pangalawa h1{
+	font-family: Old English Text MT;
+}
+
+.hr3{
+	height: 10px;
+	width: 90%;
+	background-color: green;
+}
+
+.content h1{
+	font-family: Impact;
+	text-align: center;
+	color: lightgray;
+	font-size: 70px;
+	text-shadow: 4px 4px black;
+}
+
+.p1{
+	font-family: courier new;
+	text-align: center;
+	font-size: 28px;
+	color: black;
+	background-color: white;
+}
+
+
+.up{
+	float: center;
+}
+
+.up img{
+	width: 220px;
+}
+
+.return{
+	float: center;
+}
+
+.return img{
+	width: 200px;	
+}
